@@ -1,0 +1,10 @@
+Run in Terminal PyCharm because module 'Pyinstaller' was install in his Venv Project "Test"
+
+PS C:\Users\NEGDANCHIK\PycharmProjects\Test> cd venv
+PS C:\Users\NEGDANCHIK\PycharmProjects\Test\venv> cd WorkWithCamera
+
+PS C:\Users\NEGDANCHIK\PycharmProjects\Test\venv\WorkWithCamera> pyinstaller CameraOpenCV.py	(Many files and folders)
+
+PS C:\Users\NEGDANCHIK\PycharmProjects\Test\venv\WorkWithCamera> pyinstaller -F  CameraOpenCV.py	(Single files)
+
+PS C:\Users\NEGDANCHIK\PycharmProjects\Test\venv\WorkWithCamera> pyinstaller -w  CameraOpenCV.py	(if use GUI, not console)
